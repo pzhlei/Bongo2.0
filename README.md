@@ -14,8 +14,7 @@
 Rhino6（建模）、Bongo2.0（动画）
 
 ### 2、 配料
- Win10系统 、 vscode（编辑文本） 、Screen to Gif（动态图）
- Blender（视频播放器）、A4纸（1张）、 中性笔（1支） 
+ Win10系统 、 vscode（编辑文本） 、Screen to Gif（动态图）、Blender（视频播放器）、A4纸（1张）、 中性笔（1支） 
  
 ## 四、分享
 ### 1、参考资料：Bongo2.0 help
