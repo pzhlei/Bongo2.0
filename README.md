@@ -32,8 +32,8 @@ Rhino6（建模）、Bongo2.0（动画）
 ## 六、分享
 ### 1、参考资料：Bongo2.0 help
 ### 2、相关论坛网站
-#### - http://bbs.rhino3d.asia （停用，不影响学习，查资料）
-#### - https://www.rhino3d.asia/forum.php （停用，不影响学习，查资料）
-#### * https://discourse.mcneel.com （官方英文版，看看外面的世界）
-#### * https://chinese.discourse.mcneel.com （繁体中文版）
-#### * https://forum.rhino3d.com.cn     （Rhino3D中文讨论区）
+* **http://bbs.rhino3d.asia （停用，不影响学习，查资料）**
+* **https://www.rhino3d.asia/forum.php （停用，不影响学习，查资料）**
+* **https://discourse.mcneel.com （官方英文版，看看外面的世界）**
+* **https://chinese.discourse.mcneel.com （繁体中文版）**
+* **https://forum.rhino3d.com.cn （Rhino3D中文讨论区）**
