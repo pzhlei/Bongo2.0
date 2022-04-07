@@ -5,7 +5,7 @@
 
 <img src="https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/image/00/03.gif" width="50%" />
 
-#### Do it yourself, and have enough food and clothing. The help file that comes with Bongo2.0 is a good practice material. Here, I will share my practice experience and confusion with everyone for everyone to learn and learn from.
+#### Ample food and clothing by working with our own hands. The help file that comes with Bongo2.0 is a good practice material. Here, I will share my practice experience and confusion with everyone for everyone to learn and learn from.
 #### I hope that with the joint efforts of everyone, the essence of this set of help files will be fully explored, and more people will like Bongo animation.
 #### Due to my limited level, I am also exploring and learning. Welcome everyone to actively post messages.
 #### Forum URL: [Rhino3D中文讨论区](https://forum.rhino3d.com.cn)
