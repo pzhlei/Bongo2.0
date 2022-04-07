@@ -1,14 +1,14 @@
 
-#  Bongo2.0动画—中文教程
+#  Bongo2.0 animation—— Chinese tutorial
 
-## 一、前言
+##  Introduction
 
 <img src="https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/image/00/03.gif" width="50%" />
 
-#### 1、自己动手，丰衣足食，Bongo2.0自带的帮助文件是个不错的练习素材 ，在这里把练习的心得、困惑与大伙分享，供大伙学习与借鉴。
-#### 2、希望在大伙的共同努力下，充分发掘这套帮助文件的精髓，同时也让更多的人喜欢上Bongo动画。
-#### 3、由于本人水平有限，也在摸索和学习中，欢迎大伙积极发贴留言。
-#### 4、论坛网址：[Rhino3D中文讨论区](https://forum.rhino3d.com.cn)
+#### Do it yourself, and have enough food and clothing. The help file that comes with Bongo2.0 is a good practice material. Here, I will share my practice experience and confusion with everyone for everyone to learn and learn from.
+#### I hope that with the joint efforts of everyone, the essence of this set of help files will be fully explored, and more people will like Bongo animation.
+#### Due to my limited level, I am also exploring and learning. Welcome everyone to actively post messages.
+#### Forum URL: [Rhino3D中文讨论区](https://forum.rhino3d.com.cn)
 
 
 ## 二、 互相学习
