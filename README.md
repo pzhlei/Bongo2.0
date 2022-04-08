@@ -5,28 +5,35 @@
 
 <img src="https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/image/00/03.gif" width="50%" />
 
-#### Ample food and clothing by working with our own hands. The help file that comes with Bongo2.0 is a good practice material. Here, I will share my practice experience and confusion with you, for everyone to learn and learn from.
-#### I hope that with the joint efforts of everyone, the essence of this set of help files will be fully explored, and more people will like Bongo animation.
-#### Due to my limited level, I am also exploring and learning. Welcome everyone to actively post messages.
-#### Forum URL: [Rhino3D中文讨论区](https://forum.rhino3d.com.cn)
+Ample food and clothing by working with our own hands. The help file that comes with Bongo2.0 is a good practice material. Here, I will share my practice experience and confusion with you, for everyone to learn and learn from.
+
+I hope that with the joint efforts of everyone, the essence of this set of help files will be fully explored, and more people will like Bongo2.0 animation.
+
+Due to my limited level, I am also exploring and learning. Welcome everyone to actively post messages.
+
+Forum URL: [Rhino3D中文讨论区](https://forum.rhino3d.com.cn)
 
 
-## 二、 互相学习
-#### 1、有这么好的平台，就应该尽情的展示自己，你可以自己尝试着创建主题、发贴子，你不试一试，怎么知道自己原来是一个潜力股。
-#### 2、当然你也可以直接续上、改进我的贴子，至于是谁发贴无关紧要，只要是有助于学习的，完全没有问题，直接拿去吧。
-#### 3、烹饪方法不限，食材不限，做出一道让自己得意的作品。
-#### 4、一看就会，一学就废，那就多学几遍。
+## Learning together
+With such a good platform, you should show yourself to the fullest. You can try to create themes and post by yourself. if you don't try it, how will you know that you are a potential stock.
 
-## 三、常用食材 
-### 1、  主材
-> Rhino6（建模）、Bongo2.0（动画）
+Of course, you can alse directly continue and improve my post. It dosen't matter who posted it, as long as it is helpful for learning, there is no problem at all, just take it directly.
 
-### 2、 配料
-> Win10系统 、 vscode（编辑文本） 、Screen to Gif（动态图）、Blender（视频播放器）、A4纸（1张）、 中性笔（1支） 
+There are no restrictions on cooking methods and ingredients, and you can make a work that you are proud of.
+
+Once you see it, you will learn it, and you will lose it once you learn it. Then learn it a few more times.
+
+## Commonly used food
+
+### Main material
+> Rhino6（Modeling）、Bongo2.0（Animation）
+
+### Ingredients
+> Win10(System) 、 vscode（Edit） 、Screen to Gif（Dynamic picture）、Blender（Video）、A4 paper（1 sheet）、 Gel pen（1支） 
  
-## 四、磨刀过程 
+## Sharpening process
 
-> 工欲善其事，必先利其器，面板就是整个动画的灵魂，面板顺了，心情就好，做起动画来也会得心应手，效率是大大的提高。虽说Bongo2.0的工具倒不少，个人感觉下来，常用的也就这三个面板。
+> A workman must first sharpen his tools if he is to do his work well.The panel is the soul of the entire animation. If the panel is smooth, the mood will be good, and the animation will be handy, and the efficiency will be greatly improved. Although Bongo2.0 has a lot of tools, I feel that these three panels are commonly used.
 
 
 #### 1、时间轴： Bongo/时间轴（√）
@@ -44,20 +51,20 @@
 <img src="https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/image/00/02.gif" width="50%" />
 
 
-## 五、制作过程 
-* ### **初级教程（更新中···）**
+## Production process
+* ### **Basic Tutorial（Updating······）**
 
 #### [新年第一道菜炸丸子——红丸子、绿丸子、蓝丸子 （1-1）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/01.md)
 
 
 
-* ### **中级教程（等侍更新···）**
-* ### **高级教程（等侍更新···）**
+* ### **Intermediate Course（Updating······）**
+* ### **Advanced Tutorial（Updating······）**
 
 
-## 六、分享
-### 1、参考资料：Bongo2.0 help
-### 2、相关论坛网站
+## Sharing
+### References: Bongo2.0 help
+### Related forum sites
 * **http://bbs.rhino3d.asia （停用，不影响学习，查资料）**
 * **https://www.rhino3d.asia/forum.php （停用，不影响学习，查资料）**
 * **https://discourse.mcneel.com （官方英文版，看看外面的世界）**
