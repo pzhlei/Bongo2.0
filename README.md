@@ -36,8 +36,8 @@ Once you see it, you will learn it, and you will lose it once you learn it. Then
 > A workman must first sharpen his tools if he is to do his work well.The panel is the soul of the entire animation. If the panel is smooth, the mood will be good, and the animation will be handy, and the efficiency will be greatly improved. Although Bongo2.0 has a lot of tools, I feel that these three panels are commonly used.
 
 
-#### 1、timeline:Bongo/timeline（√）
-#### 2、Bongo:properties panel/right click/Bongo （√）/move to the far left
+#### 1、Timeline:Bongo/Timeline（√）
+#### 2、Bongo:properties panel/Right click/Bongo （√）/Move to the far left
 #### 3、Properties:Propertiese Panel/Bongo
  
 <img src="https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/image/00/01.gif" width="50%" />
@@ -52,14 +52,14 @@ Once you see it, you will learn it, and you will lose it once you learn it. Then
 
 
 ## Production process
-* ### **Basic Tutorial（Updating······）**
+* ### **Basic tutorial（Updating······）**
 
 #### [新年第一道菜炸丸子——红丸子、绿丸子、蓝丸子 （1-1）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/01.md)
 
 
 
-* ### **Intermediate Course（Updating······）**
-* ### **Advanced Tutorial（Updating······）**
+* ### **Intermediate course（Updating······）**
+* ### **Advanced tutorial（Updating······）**
 
 
 ## Sharing
