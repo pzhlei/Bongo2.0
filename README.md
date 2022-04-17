@@ -29,7 +29,7 @@ Once you see it, you will learn it, and you will lose it once you learn it. Then
 > Rhino6（Modeling）、Bongo2.0（Animation）
 
 ### Ingredients
-> Win10(System) 、 vscode（Edit） 、Screen to Gif（Dynamic picture）、Blender（Video）、A4 paper（1 sheet）、 Gel pen（1支） 
+> Win10(System) 、 vscode（Edit） 、Screen to Gif（Dynamic picture）、Blender（Video）、A4 paper（1 sheet）、 Oily pen（one） 
  
 ## Sharpening process
 
