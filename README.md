@@ -26,7 +26,7 @@ Once you see it, you will learn it, and you will lose it once you learn it. Then
 ## Commonly used food
 
 ### Main material
-> Rhino6（Modeling）、Bongo2.0（Animation）
+> ZWCAD（2D） Rhino6（3D）、Bongo2.0（Animation）
 
 ### Ingredients
 > Win10(System) 、 vscode（Edit） 、Screen to Gif（Dynamic picture）、Blender（Video）、A4 paper（1 sheet）、 Oily pen（one） 
