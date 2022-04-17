@@ -31,7 +31,7 @@ Once you see it, you will learn it, and you will lose it once you learn it. Then
 ### Ingredients
 > Win10(System) 、 vscode（Edit） 、Screen to Gif（Dynamic picture）、Blender（Video）、A4 paper（1 sheet）、 Oily pen（one） 
  
-## Sharpening process
+## Sharpen the knife process
 
 > A workman must first sharpen his tools if he is to do his work well.The panel is the soul of the entire animation. If the panel is smooth, the mood will be good, and the animation will be handy, and the efficiency will be greatly improved. Although Bongo2.0 has a lot of tools, I feel that these three panels are commonly used.
 
