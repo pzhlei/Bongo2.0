@@ -42,11 +42,11 @@ Once you see it, you will learn it, and you will lose it once you learn it. Then
  
 <img src="https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/image/00/01.gif" width="50%" />
 
-（有了这三个面板，一般的动画都不在话下）。
+（With these three panels, general animatino is not a problem）
 
-**4、时间滑块的范围:**   （一般设置50帧左右即可）
-* 选中时间滑块的起始端，右击/编辑/开始位置/停止位置/确定
-* 使用鼠标滚轮进行缩放，拖拽起始端和终止端，点击重置时间轴视图，即可快速复位
+**4、时间滑块的范围:**   （Usually set to about 50 frames）
+* Select the start end of the time slider, right click/start position/stop position/Enter
+* Use the mouse wheel to zoom, drag the start and end ends, and click to reset the timeline view to quickly rest
 
 <img src="https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/image/00/02.gif" width="50%" />
 
