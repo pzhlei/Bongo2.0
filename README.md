@@ -64,7 +64,7 @@ Once you see it, you will learn it, and you will lose it once you learn it. Then
 
 ## Sharing
 ### References: Bongo2.0 help
-### Related forum sites
+### Links
 * **http://bbs.rhino3d.asia （停用，不影响学习，查资料）**
 * **https://www.rhino3d.asia/forum.php （停用，不影响学习，查资料）**
 * **https://discourse.mcneel.com （官方英文版，看看外面的世界）**
