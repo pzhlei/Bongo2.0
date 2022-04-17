@@ -36,15 +36,15 @@ Once you see it, you will learn it, and you will lose it once you learn it. Then
 > A workman must first sharpen his tools if he is to do his work well.The panel is the soul of the entire animation. If the panel is smooth, the mood will be good, and the animation will be handy, and the efficiency will be greatly improved. Although Bongo2.0 has a lot of tools, I feel that these three panels are commonly used.
 
 
-#### 1、时间轴： Bongo/时间轴（√）
-#### 2、 Bongo: 属性面板/右击/找到Bongo （√）/移到最左端
-#### 3、 属性： 属性面板/Bongo
+#### 1、timeline:Bongo/timeline（√）
+#### 2、Bongo:properties panel/right click/Bongo （√）/move to the far left
+#### 3、Properties:Propertiese Panel/Bongo
  
 <img src="https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/image/00/01.gif" width="50%" />
 
 （With these three panels, general animatino is not a problem）
 
-**4、时间滑块的范围:**   （Usually set to about 50 frames）
+**4、The range of the time slider:**   （Usually set to about 50 frames）
 * Select the start end of the time slider, right click/start position/stop position/Enter
 * Use the mouse wheel to zoom, drag the start and end ends, and click to reset the timeline view to quickly rest
 
