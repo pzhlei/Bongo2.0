@@ -54,23 +54,23 @@ Once you see it, you will learn it, and you will lose it once you learn it. Then
 ## Production process
 * ### **Basic tutorial（Updating······）**
 
-#### [新年第一道菜炸丸子——红丸子、绿丸子、蓝丸子 （1-1）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/01.md)
+* #### [新年第一道菜炸丸子——红丸子、绿丸子、蓝丸子 （1-1）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/01.md)
 
-#### [春暖花开——一起喝杯茶（旋转）（1-2）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/02.md)
+* #### [春暖花开——一起喝杯茶（旋转）（1-2）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/02.md)
 
-#### [佳人有约——心动的感觉（缩放） （1-3）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/03.md)
+* #### [佳人有约——心动的感觉（缩放） （1-3）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/03.md)
 
-#### [100周年——太阳动画 （1-4）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/04.md)
+* #### [100周年——太阳动画 （1-4）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/04.md)
 
-#### [小鸡啄米图——记录形变动画 （1-5）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/05.md)
+* #### [小鸡啄米图——记录形变动画 （1-5）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/05.md)
 
-#### [红灯停，绿灯行——记录图层可见性 （1-6）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/06.md)
+* #### [红灯停，绿灯行——记录图层可见性 （1-6）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/06.md)
 
-#### [带你赏樱花——记录视窗动画 （1-7）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/07.md)
+* #### [带你赏樱花——记录视窗动画 （1-7）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/07.md)
 
-#### [你就像那一把火——记录透明度变化 （1-8）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/08.md)
+* #### [你就像那一把火——记录透明度变化 （1-8）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/08.md)
 
-#### [飞一般的感觉——综合演练 （1-9）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/09.md)
+* #### [飞一般的感觉——综合演练 （1-9）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/09.md)
 
 * ### **Intermediate course（Updating······）**
 * ### **Advanced tutorial（Updating······）**
@@ -78,7 +78,7 @@ Once you see it, you will learn it, and you will lose it once you learn it. Then
 
 ## Sharing
 ### References: Bongo2.0 help
-### Links+ing
+### Links
  
 * **https://forum.rhino3d.com.cn （Rhino3D中文讨论区）**
 * **https://chinese.discourse.mcneel.com （繁体中文版）**
