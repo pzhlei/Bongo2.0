@@ -30,7 +30,7 @@ Once you see it, you will learn it, and you will lose it once you learn it. Then
 
 ### Ingredients
 > Win10(System) 、 vscode（Edit） 、Screen to Gif（Dynamic picture）、Blender（Video）、A4 paper（1 sheet）、 Oily pen（one） 
- 
+
 ## Sharpen the knife process
 
 > A workman must first sharpen his tools if he is to do his work well.The panel is the soul of the entire animation. If the panel is smooth, the mood will be good, and the animation will be handy, and the efficiency will be greatly improved. Although Bongo2.0 has a lot of tools, I feel that these three panels are commonly used.
@@ -39,7 +39,7 @@ Once you see it, you will learn it, and you will lose it once you learn it. Then
 #### 1、Timeline:Bongo/Timeline（√）
 #### 2、Bongo:properties panel/Right click/Bongo （√）/Move to the far left
 #### 3、Properties:Propertiese Panel/Bongo
- 
+
 <img src="https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/image/00/01.gif" width="50%" />
 
 （With these three panels, general animatino is not a problem）
@@ -52,7 +52,7 @@ Once you see it, you will learn it, and you will lose it once you learn it. Then
 
 
 ## Production process
-* ### **Basic tutorial（Updating······）**
+* ### **First Season（Updating······）**
 
 * #### [新年第一道菜炸丸子——红丸子、绿丸子、蓝丸子 （1-1）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/01.md)
 
@@ -72,14 +72,14 @@ Once you see it, you will learn it, and you will lose it once you learn it. Then
 
 * #### [飞一般的感觉——综合演练 （1-9）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/09.md)
 
-* ### **Intermediate course（Updating······）**
-* ### **Advanced tutorial（Updating······）**
+* ### **Second Season（Updating······）**
+* ### **Third Season（Updating······）**
 
 
 ## Sharing
 ### References: Bongo2.0 help
 ### Links
- 
+
 * **https://forum.rhino3d.com.cn （Rhino3D中文讨论区）**
 * **https://chinese.discourse.mcneel.com （繁体中文版）**
 * **https://discourse.mcneel.com （官方英文版，看看外面的世界）**
