@@ -52,9 +52,21 @@ Once you see it, you will learn it, and you will lose it once you learn it. Then
 
 
 ## Production process
-* ### **Zero Season（xiaoping）**
+* ### **Zero Season（Jorin , 2010-2010）**
 
-* ### **First Season（xiaoping）**
+* #### [跟我学-Bongo产品展示动画制作-第一辑 （0-1）](http://bbs.rhino3d.asia/forum.php?mod=viewthread&tid=9515&extra=page%3D1%26filter%3Dtypeid%26typeid%3D46)
+
+* #### [跟我学-Bongo产品展示动画制作-第二辑 （0-2）](http://bbs.rhino3d.asia/forum.php?mod=viewthread&tid=9682&extra=page%3D1%26filter%3Dtypeid%26typeid%3D46)
+
+* #### [跟我学-Bongo产品展示动画制作-第三辑（0-3）](http://bbs.rhino3d.asia/forum.php?mod=viewthread&tid=9807&extra=page%3D1%26filter%3Dtypeid%26typeid%3D46)
+
+* #### [跟我学-Bongo产品展示动画制作-第四辑 （0-4）](http://bbs.rhino3d.asia/forum.php?mod=viewthread&tid=9881&extra=page%3D1%26filter%3Dtypeid%26typeid%3D46)
+
+* #### [跟我学-Bongo产品展示动画制作-第五辑 （0-5）](http://bbs.rhino3d.asia/forum.php?mod=viewthread&tid=10116&extra=page%3D1%26filter%3Dtypeid%26typeid%3D46)
+
+  
+
+* ### **First Season（xiaoping ，2021-2022）**
 
 * #### [新年第一道菜炸丸子——红丸子、绿丸子、蓝丸子 （1-1）](https://forum.rhino3d.com.cn/t/1-1/112)
 
@@ -74,7 +86,10 @@ Once you see it, you will learn it, and you will lose it once you learn it. Then
 
 * #### [飞一般的感觉——综合演练 （1-9）](https://forum.rhino3d.com.cn/t/1-9/3993)
 
+  
+
 * ### **Second Season（Updating······）**
+
 * ### **Third Season（Updating······）**
 
 
