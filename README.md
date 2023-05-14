@@ -52,25 +52,27 @@ Once you see it, you will learn it, and you will lose it once you learn it. Then
 
 
 ## Production process
-* ### **First Season（Updating······）**
+* ### **Zero Season（xiaoping）**
 
-* #### [新年第一道菜炸丸子——红丸子、绿丸子、蓝丸子 （1-1）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/01.md)
+* ### **First Season（xiaoping）**
 
-* #### [春暖花开——一起喝杯茶（旋转）（1-2）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/02.md)
+* #### [新年第一道菜炸丸子——红丸子、绿丸子、蓝丸子 （1-1）](https://forum.rhino3d.com.cn/t/1-1/112)
 
-* #### [佳人有约——心动的感觉（缩放） （1-3）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/03.md)
+* #### [春暖花开——一起喝杯茶（旋转）（1-2）](https://forum.rhino3d.com.cn/t/1-2/273)
 
-* #### [100周年——太阳动画 （1-4）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/04.md)
+* #### [佳人有约——心动的感觉（缩放） （1-3）](https://forum.rhino3d.com.cn/t/1-3/444)
 
-* #### [小鸡啄米图——记录形变动画 （1-5）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/05.md)
+* #### [100周年——太阳动画 （1-4）](https://forum.rhino3d.com.cn/t/100-1-4/864)
 
-* #### [红灯停，绿灯行——记录图层可见性 （1-6）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/06.md)
+* #### [小鸡啄米图——记录形变动画 （1-5）](https://forum.rhino3d.com.cn/t/1-5/1145)
 
-* #### [带你赏樱花——记录视窗动画 （1-7）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/07.md)
+* #### [红灯停，绿灯行——记录图层可见性 （1-6）](https://forum.rhino3d.com.cn/t/1-6/2008)
 
-* #### [你就像那一把火——记录透明度变化 （1-8）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/08.md)
+* #### [带你赏樱花——记录视窗动画 （1-7）](https://forum.rhino3d.com.cn/t/1-7/2851)
 
-* #### [飞一般的感觉——综合演练 （1-9）](https://github.com/pzhlei/Bongo2.0/blob/main/tutorial/basic%20tutorial/09.md)
+* #### [你就像那一把火——记录透明度变化 （1-8）](https://forum.rhino3d.com.cn/t/1-8/3332)
+
+* #### [飞一般的感觉——综合演练 （1-9）](https://forum.rhino3d.com.cn/t/1-9/3993)
 
 * ### **Second Season（Updating······）**
 * ### **Third Season（Updating······）**
